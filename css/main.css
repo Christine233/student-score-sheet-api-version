@@ -1,0 +1,15 @@
+body{
+    margin: 0 10% 0 10%;
+}
+h2{
+    text-align: center;
+}
+.btn{
+    float: right;
+}
+.form-inline .form-group {
+    margin-bottom: 15px;
+}
+.btn-close{
+    margin-left: 2%;
+}
